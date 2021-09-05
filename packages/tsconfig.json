@@ -1,0 +1,7 @@
+{
+    "files": [],
+    "references": [
+        { "path": "x-app" },
+        { "path": "x-core" },
+    ]
+}
